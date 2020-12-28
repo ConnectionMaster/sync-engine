@@ -1,6 +1,6 @@
 nylas-production-python>=0.3.9
 coverage==4.2
-httplib2==0.8
+httplib2==0.18.0
 pytest==2.8.3
 pytest-xdist==1.13.1
 wsgiref==0.1.2
