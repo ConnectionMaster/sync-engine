@@ -8,7 +8,7 @@ git+https://github.com/mhahnenberg/sqlalchemy.git@backport-fix#egg=SQLAlchemy
 pymongo==2.5.2  # For json_util in bson
 dnspython==1.11.1
 boto==2.10.0
-ipython==1.0.0
+ipython==7.16.3
 Flask==0.10.1
 freezegun==0.3.7
 gevent==1.1.2
